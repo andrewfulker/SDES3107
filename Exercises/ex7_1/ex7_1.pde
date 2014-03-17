@@ -1,0 +1,12 @@
+size(500,500);
+background(100,20,100);
+fill(200,20,100);
+beginShape();
+stroke(250,20,20);
+strokeWeight(6);
+vertex(1,1);
+vertex(300,200);
+vertex(400,100);
+vertex(500,400);
+vertex(1,1);
+endShape(CLOSE);
